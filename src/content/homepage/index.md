@@ -15,7 +15,7 @@ key_features:
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
       title: ENGEE
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      content: next-get hospital information system.
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
       title: Smart Reply
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
