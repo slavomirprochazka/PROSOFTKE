@@ -13,7 +13,7 @@ key_features:
   title: "The Highlighting Part Of Our Solution"
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
   feature_list:
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "activity"  #icon package react-feather-icon [https://feathericons.com/]
       title: ENGEE
       content: next-get hospital information system.
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
