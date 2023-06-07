@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "PROSOFT Košice",
-    "base_url": "https://pinwheel-astro.vercel.app",
+    "base_url": "https://prosoftke.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -18,11 +18,11 @@
   },
 
   "call_to_action": {
-    "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "title": "Pomáháme chránit",
+    "description": "Pomáháme zefektnit činnosti zdravotnických zařízení a zjednodušit práci jejich zaměstnancům.",
     "button": {
-      "label": "Download The Theme",
-      "link": "https://themefisher.com/astro-themes/pinwheel-astro"
+      "label": "Původní prezentace",
+      "link": "http://www.promis.sk/"
     }
   },
 
@@ -34,11 +34,11 @@
 
   "params": {
     "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
-    "phone": "+704-555-0127",
+    "email": "prosoft@prosoftke.sk",
+    "location": "Letná 27, 040 01 Košice",
+    "phone": "+421 55 799 6451, +421 55 799 6452",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2023 PROSOFT Košice, a.s."
   },
 
   "metadata": {
