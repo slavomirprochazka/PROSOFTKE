@@ -14,7 +14,7 @@ key_features:
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
+      title: ENGEE
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
       title: Smart Reply
