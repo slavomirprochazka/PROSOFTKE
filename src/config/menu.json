@@ -1,11 +1,11 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Domů",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "O nás",
       "url": "/about"
     },
     {
@@ -21,56 +21,35 @@
       "url": "/how-it-works"
     },
     {
-      "name": "Pages",
+      "name": "Řešení",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Career",
-          "url": "/career"
+          "name": "ENGEE",
+          "url": "/engee"
         },
 
         {
-          "name": "Integrations",
-          "url": "/integrations"
+          "name": "PROMIS",
+          "url": "/promis"
         },
 
-        {
-          "name": "Pricing",
-          "url": "/pricing"
-        },
-        {
-          "name": "Sign In",
-          "url": "/signin"
-        },
-
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Changelog",
-          "url": "/changelog"
-        },
-        {
-          "name": "Terms And Conditions",
-          "url": "/terms-and-conditions"
-        }
       ]
     },
     {
-      "name": "Contact",
+      "name": "Kontakt",
       "url": "/contact"
     }
   ],
 
   "footer": [
     {
-      "name": "About",
+      "name": "O nás",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Kontakt",
       "url": "/contact"
     },
     {
