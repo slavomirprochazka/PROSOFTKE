@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "25 let zkušeností s vývojem informačních systémů pro zdravotnictví"
+  content: "Moderní informační systém pro nemocnice a pro ambulance."
   image: /images/banner-img.png
   button:
     label: Download The Theme
