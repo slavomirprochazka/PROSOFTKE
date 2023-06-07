@@ -6,6 +6,7 @@
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.svg",
+    "logo_format": "svg",
     "logo_width": "134",
     "logo_height": "31",
     "logo_text": "PROSOFT Košice"
