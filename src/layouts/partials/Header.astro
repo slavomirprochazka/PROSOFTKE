@@ -86,8 +86,8 @@ const { pathname } = Astro.url;
                       <a
                         href={'/'+lang+child.url}
                         class={`nav-dropdown-link block ${
-                          (pathname === `${child.url}/` ||
-                            pathname === child.url) &&
+                          (pathname === `${'/'+lang+child.url}/` ||
+                            pathname === '/'+lang+child.url) &&
                           "text-primary"
                         }`}
                       >
@@ -102,7 +102,7 @@ const { pathname } = Astro.url;
                 <a
                   href={'/'+lang+menu.url}
                   class={`nav-link inline-block lg:block ${
-                    (pathname === `${menu.url}/` || pathname === menu.url) &&
+                    (pathname === `${'/'+lang+menu.url}/` || pathname === '/'+lang+menu.url) &&
                     "active"
                   }`}
                 >
