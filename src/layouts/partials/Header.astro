@@ -86,7 +86,7 @@ const jazyk = "/sk";
                   {menu.children?.map((child) => (
                     <li class="nav-dropdown-item">
                       <a
-                        href={jazyk}{child.url}
+                        href={jazyk+child.url}
                         class={`nav-dropdown-link block ${
                           (pathname === `${child.url}/` ||
                             pathname === child.url) &&
@@ -102,7 +102,7 @@ const jazyk = "/sk";
             ) : (
               <li class="nav-item">
                 <a
-                  href={jazyk}{menu.url}
+                  href={jazyk+menu.url}
                   class={`nav-link inline-block lg:block ${
                     (pathname === `${menu.url}/` || pathname === menu.url) &&
                     "active"
