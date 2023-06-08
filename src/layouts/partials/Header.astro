@@ -16,6 +16,8 @@ export interface NavigationLink {
 
 const { main }: { main: NavigationLink[] } = menu;
 const { pathname } = Astro.url;
+
+const langbasepath = "/sk";
 ---
 
 <header class="header">
@@ -84,10 +86,10 @@ const { pathname } = Astro.url;
                   {menu.children?.map((child) => (
                     <li class="nav-dropdown-item">
                       <a
-                        href={'/'+lang+child.url}
+                        href={langbasepath+child.url}
                         class={`nav-dropdown-link block ${
-                          (pathname === `${'/'+lang+child.url}/` ||
-                            pathname === '/'+lang+child.url) &&
+                          (pathname === `${langbasepath+child.url}/` ||
+                            pathname === langbasepath+child.url) &&
                           "text-primary"
                         }`}
                       >
@@ -100,9 +102,9 @@ const { pathname } = Astro.url;
             ) : (
               <li class="nav-item">
                 <a
-                  href={'/'+lang+menu.url}
+                  href={langbasepath+menu.url}
                   class={`nav-link inline-block lg:block ${
-                    (pathname === `${'/'+lang+menu.url}/` || pathname === '/'+lang+menu.url) &&
+                    (pathname === `${langbasepath+menu.url}/` || pathname === langbasepath+menu.url) &&
                     "active"
                   }`}
                 >
