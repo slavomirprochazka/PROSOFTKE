@@ -9,18 +9,6 @@
       "url": "/about"
     },
     {
-      "name": "Blog",
-      "url": "/blog"
-    },
-    {
-      "name": "Features",
-      "url": "/features"
-    },
-    {
-      "name": "How It Works",
-      "url": "/how-it-works"
-    },
-    {
       "name": "Řešení",
       "url": "",
       "hasChildren": true,
@@ -36,6 +24,14 @@
         }
 
       ]
+    },
+    {
+      "name": "Reference",
+      "url": "/references"
+    },
+    {
+      "name": "How It Works",
+      "url": "/how-it-works"
     },
     {
       "name": "Kontakt",
